@@ -1,0 +1,115 @@
+#general
+set statusbar-bg	"#434c5eff"
+set statusbar-fg	"#e5e9f000"
+set recolor 
+#set recolor-lightcolor	"#000000"
+#set recolor-darkcolor	"#ffffff"
+
+###########################################################
+
+#nord
+#set recolor-lightcolor	"#2e3440"
+#set recolor-darkcolor	"#d8dee9"
+#set default-bg		"#2e3440"
+#set default-fg		"#d8dee9"
+#set inputbar-bg		"#434c5e"
+#set inputbar-fg		"#e5e9f0"
+
+###########################################################
+
+#gruvbox
+#set recolor-lightcolor	"#1d2021"
+#set recolor-darkcolor	"#ebdbb2"
+#set default-bg		"#1d2021"
+#set default-fg		"#ebdbb2"
+#set inputbar-bg		"#282828"
+#set inputbar-fg		"#ebdbb2"
+
+###########################################################
+
+#cyan
+#set recolor-lightcolor	"#0F131B"
+#set recolor-darkcolor	"#63FCFA"
+#set default-bg		"#0F131B"
+#set default-fg		"#63FCFA"
+#set inputbar-bg		"#1A2230"
+#set inputbar-fg		"#63FCFA"
+
+###########################################################
+
+#zmbie
+#set recolor-lightcolor	"#0D0F18"
+#set recolor-darkcolor	"#7D99BC"
+#set default-bg		"#0D0F18"
+#set default-fg		"#7D99BC"
+#set inputbar-bg		"#181C2D"
+#set inputbar-fg		"#7D99BC"
+
+###########################################################
+
+#drakula
+#set recolor-lightcolor	"#11111B"
+#set recolor-darkcolor	"#ff79c6"
+#set default-bg		"#11111B"
+#set default-fg		"#ff79c6"
+#set inputbar-bg		"#1E1E31"
+#set inputbar-fg		"#ff79c6"
+
+###########################################################
+
+#aline antiguo
+#set recolor-lightcolor	"#102236"
+#set recolor-darkcolor	"#569AFF"
+#set default-bg		"#102236"
+#set default-fg		"#569AFF"
+#set inputbar-bg		"#132941"
+#set inputbar-fg		"#569AFF"
+
+###########################################################
+
+#karla
+#set recolor-lightcolor	"#0B0005"
+#set recolor-darkcolor	"#EC4586"
+#set default-bg		"#0B0005"
+#set default-fg		"#EC4586"
+#set inputbar-bg		"#2E0015"
+#set inputbar-fg		"#fa63a1"
+
+###########################################################
+
+#green
+set recolor-lightcolor	"#181c1f"
+set recolor-darkcolor	"#b9c384"
+set default-bg		"#181c1f"
+set default-fg		"#b9c384"
+set inputbar-bg		"#272D32"
+set inputbar-fg		"#D3C6AA"
+
+###########################################################
+
+#gruvbox light
+#set recolor-lightcolor	"#FEFBEF"
+#set recolor-darkcolor	"#3C3836"
+#set default-bg		"#FEFBEF"
+#set default-fg		"#3C3836"
+#set inputbar-bg		"#FCF3CF"
+#set inputbar-fg		"#3C3836"
+
+###########################################################
+
+#orange
+#set recolor-lightcolor	"#090e13"
+#set recolor-darkcolor	"#F66456"
+#set default-bg		"#090e13"
+#set default-fg		"#F66456"
+#set inputbar-bg		"#131E29"
+#set inputbar-fg		"#F66456"
+
+
+
+
+
+
+
+
+	

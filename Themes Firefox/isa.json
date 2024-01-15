@@ -1,0 +1,170 @@
+{
+  "yags-general": {
+    "img": "https://i.pinimg.com/originals/bc/45/a2/bc45a2d28e8d9fb915edf2c1302daafe.gif",
+    "title": "BlAcK n YelLow",
+    "displayImg": true,
+    "font": "Monocraft",
+    "enableFonts": false,
+    "fontSize": 1
+  },
+  "yags-search": {
+    "placeholder": "Search in the wired",
+    "engine": "duckduckgo",
+    "forwardingLookup": {
+      "/": "/",
+      "deepl": "https://deepl.com/",
+      "reddit": "https://reddit.com/",
+      "maps": "https://maps.google.com/"
+    }
+  },
+  "yags-theme": {
+    "inverted": false,
+    "color": {
+      "name": "custom",
+      "bg": {
+        "shade": "#000000",
+        "base": "#000000",
+        "surface": "#fbc44c",
+        "highlight": "#fbc44c"
+      },
+      "fg": {
+        "shade": "#000000",
+        "base": "#000000",
+        "surface": "#000000",
+        "highlight": "#000000"
+      },
+      "primary": {
+        "bg": "#f0c56d",
+        "base": "#fbc44c",
+        "fg": "#000"
+      },
+      "secondary": {
+        "bg": "#fbc44c",
+        "base": "#FFFFFF",
+        "fg": "#fff"
+      },
+      "palette": {
+        "red": "#E06C75",
+        "green": "#98C379",
+        "yellow": "#E5C07B",
+        "blue": "#61AFEF",
+        "purple": "#C678DD",
+        "cyan": "#56B6C2",
+        "orange": "#FFBB7C"
+      }
+    },
+    "space": {
+      "smallest": "0.125rem",
+      "small": "0.5rem",
+      "medium": "1rem",
+      "large": "1.5rem",
+      "largest": "3rem"
+    }
+  },
+  "yags-surface": {
+    "shadow": {
+      "amount": 2,
+      "blur": 32,
+      "offset": 4,
+      "shadow": "4px 4px 32px rgb(240, 197, 109), 8px 8px 32px rgb(251, 196, 76)"
+    },
+    "borderRadius": 14,
+    "maxWidth": 990
+  },
+  "yags-bookmarks": [
+    {
+      "id": "0hsHQHcNfTCCxcJp",
+      "label": "reddit",
+      "bookmarks": [
+        {
+          "id": "0s2LmOABm9c3goot",
+          "label": "r/startpages",
+          "url": "https://www.reddit.com/r/startpages/"
+        },
+        {
+          "id": "PSgVWZi5N0nflLJO",
+          "label": "r/typescript",
+          "url": "https://www.reddit.com/r/typescript/"
+        },
+        {
+          "id": "9SBdJUbM3E7yQ8FK",
+          "label": "r/reactjs",
+          "url": "https://www.reddit.com/r/reactjs/"
+        }
+      ]
+    },
+    {
+      "id": "9bFGudXfBUKS5TV7",
+      "label": "design tools",
+      "bookmarks": [
+        {
+          "id": "ZC9nQLnae5pLBUPY",
+          "label": "pixlrx",
+          "url": "https://pixlr.com/x/"
+        },
+        {
+          "id": "m2TLBG1BpRQzsxtP",
+          "label": "image enlarger",
+          "url": "https://bigjpg.com/en"
+        },
+        {
+          "id": "uQNUCpyUNDoxRj52",
+          "label": "haikei",
+          "url": "https://app.haikei.app/"
+        },
+        {
+          "id": "XBiqH36haStUev1C",
+          "label": "css gradients",
+          "url": "https://larsenwork.com/easing-gradients/"
+        }
+      ]
+    },
+    {
+      "id": "aMn6rxkXRZ9FemOp",
+      "label": "worth reading",
+      "bookmarks": [
+        {
+          "id": "JHqEQuO74TkR9ErO",
+          "label": "happy hues",
+          "url": "https://www.happyhues.co/"
+        },
+        {
+          "id": "zd8MSH2ZBgZhFesU",
+          "label": "styled-components",
+          "url": "https://www.joshwcomeau.com/react/demystifying-styled-components/"
+        },
+        {
+          "id": "nCc4qDCil2llzuzY",
+          "label": "react docs",
+          "url": "https://reactjs.org/docs/getting-started.html"
+        }
+      ]
+    },
+    {
+      "id": "r5zIgLddiWK4Yhk0",
+      "label": "sources",
+      "bookmarks": [
+        {
+          "id": "Frf7iq2UfQzrxFhO",
+          "label": "icons",
+          "url": "https://feathericons.com/"
+        },
+        {
+          "id": "mlS6hqbzztb8Hg1O",
+          "label": "gif",
+          "url": "https://designyoutrust.com/2019/05/the-chill-and-retro-motion-pixel-art-of-motocross-saito/"
+        },
+        {
+          "id": "aLIFVLqGCJe7kCg1",
+          "label": "@startpage",
+          "url": "https://prettycoffee.github.io/startpage"
+        },
+        {
+          "id": "BndVNm4dJdJPo1dD",
+          "label": "videos",
+          "url": "https://youtube.com"
+        }
+      ]
+    }
+  ]
+}
